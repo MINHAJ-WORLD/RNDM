@@ -207,7 +207,7 @@ tokenku=[]
 os.system('xdg-open https://www.facebook.com/ctgminhaj484')
 def logo():
     os.system('clear')
-    print(f"""
+    print():
 def MINHAJ():
     os.system('clear')
     logo()
@@ -364,5 +364,3 @@ if __name__=="__main__":
     os.system('clear')
     os.system('git pull')
     MINHAJ ()
-    
-    
